@@ -16,4 +16,4 @@ That should produce a qr code that you can scan using the expo app on your phone
 
 Screenshot:
 
-![Image](https://ibb.co/93GCDJM)
+https://ibb.co/93GCDJM
