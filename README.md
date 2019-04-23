@@ -13,3 +13,5 @@ npm start
 ```
 
 That should produce a qr code that you can scan using the expo app on your phone to try this app out.
+
+
